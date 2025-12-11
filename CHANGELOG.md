@@ -1,8 +1,4 @@
 
----
-
-# ✅ **3. Готовий код для CHANGELOG.md**
-
 ```markdown
 # 📘 CHANGELOG
 
